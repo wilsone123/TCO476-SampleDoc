@@ -31,10 +31,15 @@ and go to the **/docs** folder of the repo.
 4. Add all the new files to git:
 ```
 	git add *.*
+	
 	git add _posts/*.*
+	
 	git add css/*.*
-	git commit -a -m "creating new Jekyll doc project" 
+	
+	git commit -a -m "creating new Jekyll doc project"
+	
 	git push origin master
+	
 ```
 This should push the documentation files to the github server, which should cause it to build automatically (within a few seconds, if not immediately)
 5. Wait about a minute, refresh the **Settings** page of the repo, and make sure that no errors are reported in the **GitHub Pages** section of the repo's **Settings** page. 
