@@ -26,24 +26,17 @@ If the preceding steps produce a valid documentation topic entry in github.io, y
 ```git pull origin master```<br>
 and go to the **/docs** folder of the repo.
 2.  Create a new Jekyll documentation template in the **/docs** folder, by entering this at the command line: <br>
-```jekyll new . --force``` 
+```jekyll new . --force``` <br>
 3. Rename **index.html** to **index.md** and add any additional markdown to the page (carefully so as to not create any errors when the documentation is built).
-4. Add all the new files to git:
-```
-	git add *.*
-	
-	git add _posts/*.*
-	
-	git add css/*.*
-	
-	git commit -a -m "creating new Jekyll doc project"
-	
-	git push origin master
-	
-```
+4. Add all the new files to git:<br>
+```	git add *.*```<br>
+```	git add _posts/*.*```<br>
+```	git add css/*.*```<br>
+```	git commit -a -m "creating new Jekyll doc project"```<br>
+```	git push origin master```<br>
 This should push the documentation files to the github server, which should cause it to build automatically (within a few seconds, if not immediately)
 5. Wait about a minute, refresh the **Settings** page of the repo, and make sure that no errors are reported in the **GitHub Pages** section of the repo's **Settings** page. 
-5. If no errors are reported, check to see if your updated documentation is visible at https://**<account\>**.github.io/**<repo name\>**. For example, this content will be visible at [https://rbwatson.github.io/TCO476-new5/](https://rbwatson.github.io/TCO476-new5/)
+6. If no errors are reported, check to see if your updated documentation is visible at https://**<account\>**.github.io/**<repo name\>**. For example, this content will be visible at [https://rbwatson.github.io/TCO476-new5/](https://rbwatson.github.io/TCO476-new5/)
 
 # Documentation updates
 
