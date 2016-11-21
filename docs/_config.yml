@@ -18,8 +18,8 @@ email: watson_rb@mercer.edu
 description: > # this means to ignore newlines until "baseurl:"
   This documentation project demonstrates how a Jekyll project in the /docs folder
   can be used to create a public documentation site in http://<account>.github.io/
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rbwatson.github.io/TCO476-new5" # the base hostname & protocol for your site
+baseurl: "/TCO476-new5" # the subpath of your site, e.g. /blog
+url: "http://rbwatson.github.io" # the base hostname & protocol for your site
 twitter_username: bobwatsonphd
 github_username:  rbwatson
 include: ['pages']

@@ -9,7 +9,7 @@ This post describes how to configure your github repo to use the /docs folder as
 
 # Configuring the documentation folder
 
-1. In the repo's [**Settings**](/TCO476-new5/pages/RepoSettings.html), in the [**GitHub Pages**](/TCO476-new5/pages/GitHubWSettings.html) section, set (or ensure that) the doc source to _none_.
+1. In the repo's [**Settings**](/pages/RepoSettings.html), in the [**GitHub Pages**](/pages/GitHubWSettings.html) section, set (or ensure that) the doc source to _none_.
 
 2. Set the current branch to **master**.
 2. Create (or confirm the existence of) a **/docs** folder in repo. To create a folder, if necessary, create a **/docs/index.md** file and enter some simple content in markdown.
