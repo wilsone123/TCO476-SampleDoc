@@ -24,5 +24,5 @@ The **TCO476-new5** project tests the github pages documentation for a github re
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  <p class="post-date">{{ 'now' | date: "%Y" }}</p>
 </div>
