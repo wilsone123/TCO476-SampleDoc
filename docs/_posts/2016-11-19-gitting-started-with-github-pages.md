@@ -11,9 +11,9 @@ This post describes how to configure your github repo to use the /docs folder as
 
 1. In the repo's [**Settings**]({{ site.baseurl }}/pages/RepoSettings.html), in the [**GitHub Pages**]({{ site.baseurl }}/pages/GitHubWSettings.html) section, set (or ensure that) the doc source to _none_.
 
-2. Set the current branch to [**master**]({{ site.baseurl }}/pages/MasterBranch.htm).
-2. [Create (or confirm the existence of) a **/docs** folder in repo]({{ site.baseurl }}/pages/NewFile.htm). To create a folder, if necessary, create a **/docs/index.md** file and enter some simple content in markdown.
-3. In the repo's **Settings**, in the **GitHub Pages** section, [set (or ensure that) the doc source to _master branch /docs_ folder]({{ site.baseurl }}/pages/SettingsGithubPages.htm).
+2. Set the current branch to [**master**]({{ site.baseurl }}/pages/MasterBranch.html).
+2. [Create (or confirm the existence of) a **/docs** folder in repo]({{ site.baseurl }}/pages/NewFile.html). To create a folder, if necessary, create a **/docs/index.md** file and enter some simple content in markdown.
+3. In the repo's **Settings**, in the **GitHub Pages** section, [set (or ensure that) the doc source to _master branch /docs_ folder]({{ site.baseurl }}/pages/SettingsGithubPages.html).
 4. Wait about a minute and make sure that no errors are reported in the **GitHub Pages** section of the repo's **Settings** page. 
 5. If no errors are reported, check to see if your documentation is visible at https://**<account\>**.github.io/**<repo name\>**. For example, this content will be visible at [https://rbwatson.github.io/TCO476-new5/](https://rbwatson.github.io/TCO476-new5/)
 
