@@ -15,7 +15,7 @@ This post describes how to configure your github repo to use the /docs folder as
 2. [Create (or confirm the existence of) a **/docs** folder in repo]({{ site.baseurl }}/pages/NewFile.html). To create a folder, if necessary, create a **/docs/index.md** file and enter some simple content in markdown.
 3. In the repo's **Settings**, in the **GitHub Pages** section, [set (or ensure that) the doc source to _master branch /docs_ folder]({{ site.baseurl }}/pages/GitHubPagesSetting.html).
 4. Wait about a minute and make sure that no errors are reported in the **GitHub Pages** section of the repo's **Settings** page. 
-5. If no errors are reported, check to see if your documentation is visible at https://**<account\>**.github.io/**<repo name\>**. For example, this content will be visible at [https://rbwatson.github.io/TCO476-new5/](https://rbwatson.github.io/TCO476-new5/)
+5. If no errors are reported, check to see if your documentation is visible at https://**<account\>**.github.io/**<repo name\>**. For example, this content will be visible at [{{ site.url}}]({{ site.url}})
 
 # Create a new Jekyll documentation project
 
@@ -37,7 +37,7 @@ and go to the **/docs** folder of the repo.
 ```	git push origin master```<br>
 This should push the documentation files to the github server, which should cause it to build automatically (within a few seconds, if not immediately)
 5. Wait about a minute, refresh the **Settings** page of the repo, and make sure that no errors are reported in the **GitHub Pages** section of the repo's **Settings** page. 
-6. If no errors are reported, check to see if your updated documentation is visible at https://**<account\>**.github.io/**<repo name\>**. For example, this content will be visible at [https://rbwatson.github.io/TCO476-new5/](https://rbwatson.github.io/TCO476-new5/)
+6. If no errors are reported, check to see if your updated documentation is visible at https://**<account\>**.github.io/**<repo name\>**. For example, this content will be visible at [{{ site.url}}]({{ site.url}})
 
 # Documentation updates
 
