@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# TCO476-new5 Overview
+# TCO476-SampleDoc Overview
 
-The **TCO476-new5** project tests the github pages documentation for a github repo.
+The **TCO476-SampleDoc** project tests the github pages documentation for a github repo.
 
 
 <div class="home">
