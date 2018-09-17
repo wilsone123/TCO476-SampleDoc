@@ -5,6 +5,7 @@ date:   2016-11-19 16:34:48 +0000
 categories: jekyll gettingstarted
 ---
 
+
 This post describes how to configure your github repo to use the /docs folder as the source code for the repo's documentation that will be automatically published in github.io.
 
 # Configuring the documentation folder
@@ -38,7 +39,7 @@ and go to the **/docs** folder of the repo.
 This should push the documentation files to the github server, which should cause it to build automatically (within a few seconds, if not immediately)
 5. Wait about a minute, refresh the **Settings** page of the repo, and make sure that no errors are reported in the **GitHub Pages** section of the repo's **Settings** page. 
 6. If no errors are reported, check to see if your updated documentation is visible at https://**<account\>**.github.io/**<repo name\>**. For example, this content will be visible at [{{ site.url}}]({{ site.url}})
-
+hey
 # Documentation updates
 
 After the preceding is successful, new topics and documentation can be added and updated using normal git protocol. That is, a **dev** branch can be created from the **master** branch and then edited and tested. 
