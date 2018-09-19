@@ -39,7 +39,7 @@ and go to the **/docs** folder of the repo.
 This should push the documentation files to the github server, which should cause it to build automatically (within a few seconds, if not immediately)
 5. Wait about a minute, refresh the **Settings** page of the repo, and make sure that no errors are reported in the **GitHub Pages** section of the repo's **Settings** page. 
 6. If no errors are reported, check to see if your updated documentation is visible at https://**<account\>**.github.io/**<repo name\>**. For example, this content will be visible at [{{ site.url}}]({{ site.url}})
-hey
+
 # Documentation updates
 
 After the preceding is successful, new topics and documentation can be added and updated using normal git protocol. That is, a **dev** branch can be created from the **master** branch and then edited and tested. 
@@ -53,3 +53,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+![This link is a test.] (https://github.com/wilsone123/TCO476-SampleDoc/blob/master/docs/assets/images/DocsFile.png)
