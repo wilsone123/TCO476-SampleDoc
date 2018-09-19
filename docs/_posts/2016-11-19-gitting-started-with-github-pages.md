@@ -62,6 +62,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 # This is a line of sample text. 
 
-![](https://github.com/wilsone123/TCO476-SampleDoc/blob/master/docs/assets/images/mitsubishi_32.jpg)
+![I said hey what's up hello?](https://github.com/wilsone123/TCO476-SampleDoc/blob/master/docs/assets/images/mitsubishi_32.jpg)
 
 ## HEY WHAT DOES THIS LOOK LIKE
