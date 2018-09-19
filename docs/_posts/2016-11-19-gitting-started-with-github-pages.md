@@ -60,8 +60,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [YouTube](http://youtube.com)
 
-#This is a line of sample text. 
+# This is a line of sample text. 
 
-!(https://github.com/wilsone123/TCO476-SampleDoc/blob/master/docs/assets/images/mitsubishi_32.jpg)
+![](https://github.com/wilsone123/TCO476-SampleDoc/blob/master/docs/assets/images/mitsubishi_32.jpg)
 
-##HEY WHAT DOES THIS LOOK LIKE
+## HEY WHAT DOES THIS LOOK LIKE
