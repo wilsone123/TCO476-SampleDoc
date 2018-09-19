@@ -59,4 +59,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 [YouTube](http://youtube.com)
+
 ![This is a test.](https://github.com/wilsone123/TCO476-SampleDoc/blob/master/docs/assets/images/DocsFile.png)
