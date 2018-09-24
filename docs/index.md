@@ -27,4 +27,4 @@ The **TCO476-SampleDoc** project tests the github pages documentation for a gith
   <p class="post-date">Published: {{ 'now' | date: "%x %X" }} UTC</p>
 </div>
 
-[ABOUT ME](https://wilsone123.github.io/TCO476-SampleDoc/pages/AboutMe.html) 
+## [ABOUT ME](https://wilsone123.github.io/TCO476-SampleDoc/pages/AboutMe.html) 
