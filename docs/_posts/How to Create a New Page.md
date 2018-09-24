@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+title:  "Creating a new page"
 ---
 
 # How to create a page
