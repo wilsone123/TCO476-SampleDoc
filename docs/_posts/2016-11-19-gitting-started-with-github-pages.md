@@ -64,4 +64,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ![I said hey what's up hello?](https://github.com/wilsone123/TCO476-SampleDoc/blob/master/docs/assets/images/mitsubishi_32.jpg)
 
-## HEY WHAT DOES THIS LOOK LIKE
+## HEY CHECK OUT MY HOT NEW PAGE [ABOUT ME](https://wilsone123.github.io/TCO476-SampleDoc/pages/AboutMe.html) 
