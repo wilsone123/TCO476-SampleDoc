@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Creating a new page"
+date:   2018-09-24 16:17:00 +0000
 ---
 
 # How to create a page
