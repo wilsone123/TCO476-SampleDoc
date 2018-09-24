@@ -26,3 +26,5 @@ The **TCO476-SampleDoc** project tests the github pages documentation for a gith
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
   <p class="post-date">Published: {{ 'now' | date: "%x %X" }} UTC</p>
 </div>
+
+[ABOUT ME](https://wilsone123.github.io/TCO476-SampleDoc/pages/AboutMe.html) 
